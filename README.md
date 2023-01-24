@@ -410,3 +410,5 @@ Changes to Outputs:
 Note: You didn't use the -out option to save this plan, so Terraform can't guarantee to take exactly these actions if you run "terraform apply" now.
 ```
 ---
+* Сылка на репозиторий террформ https://github.com/askarpoff/terraform_ex2
+---
